@@ -8,7 +8,7 @@ content_blocks:
       We make amazing cakes for all occasions. Help us create an amazing center
       piece for your special moment.
     text_color: '#f3a5e2'
-    image: /uploads/michaela-baum-vnm6-liirj0-unsplash.jpg
+    image: /uploads/michaela-baum-vnm6-liirj0-unsplash-1.jpg
     image_alt: cupcakes lined up
     button_1:
       _bookshop_name: generic/button
