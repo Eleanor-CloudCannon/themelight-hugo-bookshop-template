@@ -3,7 +3,7 @@ title: Home
 content_blocks:
   - _bookshop_name: sections/hero
     title: Cake Shop
-    title_color: '#f33fcc'
+    title_color: '#cc40ae'
     text: >-
       We make amazing cakes for all occasions. Help us create an amazing center
       piece for your special moment.
@@ -16,10 +16,10 @@ content_blocks:
       link_url: '#contact'
       label_color: '#ffffff'
       border_color: '#ffffff'
-      background_color: '#f33fcc'
+      background_color: '#cc40ae'
       hover_background_color: '#ffffff'
-      hover_label_color: '#f33fcc'
-      hover_border_color: '#f33fcc'
+      hover_label_color: '#cc40ae'
+      hover_border_color: '#cc40ae'
       open_in_new_tab: false
     button_2:
     reversed: false
