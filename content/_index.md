@@ -165,10 +165,13 @@ content_blocks:
   - _bookshop_name: sections/pricing-table
     background_color: '#ffffff'
     heading:
-      title:
-      subtitle:
-      title_color: '#333'
-      subtitle_color: '#333'
-      line_color: '#fff'
+      title: Pricing table
+      subtitle: >-
+        For custom cakes it can be difficult to give an exact price until
+        details such as size and decorations have been discussed. Use this table
+        as a guide only.
+      title_color: '#333333'
+      subtitle_color: '#333333'
+      line_color: '#7740fc'
     price_card: []
 ---
