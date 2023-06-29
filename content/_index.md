@@ -311,5 +311,5 @@ content_blocks:
       hover_label_color: '#ffffff'
       hover_border_color: '#7740fc'
       open_in_new_tab: false
-    border_color: '#ffffff'
+    border_color: '#7740fc'
 ---
