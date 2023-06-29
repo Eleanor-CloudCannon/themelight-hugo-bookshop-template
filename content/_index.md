@@ -67,7 +67,7 @@ content_blocks:
           tall or large cakes and difficult venues. We have experience moving
           cakes.
         features_heading_color: '#333333'
-        features_text_color: '#6d6969'
+        features_text_color: '#7740fc'
       - icon: skull-outline
         icon_color: '#7740fc'
         heading: Dietary Requirements
@@ -75,5 +75,5 @@ content_blocks:
           We can handle most dietary requirements. Our kitchen is designed in a
           way that allows us to eliminate cross contamination.
         features_heading_color: '#333333'
-        features_text_color: '#6d6969'
+        features_text_color: '#cc40ae'
 ---
