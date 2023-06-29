@@ -243,4 +243,6 @@ content_blocks:
           open_in_new_tab: false
         text_color: '#333333'
         border_color: '#7740fc'
+  - _bookshop_name: sections/narrow-image
+    image: /uploads/amirali-mirhashemian-efkmkuxs0fu-unsplash.jpg
 ---
