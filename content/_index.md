@@ -306,10 +306,10 @@ content_blocks:
       link_url: /
       label_color: '#ffffff'
       border_color: '#ffffff'
-      background_color: '#000000'
-      hover_background_color: '#ffffff'
-      hover_label_color: '#000000'
-      hover_border_color: '#000000'
+      background_color: '#7740fc'
+      hover_background_color: '#cc40ae'
+      hover_label_color: '#ffffff'
+      hover_border_color: '#7740fc'
       open_in_new_tab: false
     border_color: '#ffffff'
 ---
