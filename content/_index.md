@@ -139,7 +139,7 @@ content_blocks:
         description: >-
           With over 10 years of experience, Eve know how to create a cake! Her
           favourite cake flavour is choc mint.
-        hover_border_color: '#cc40ae'
+        hover_border_color: '#7740fc'
         icon: leaf-outline
         icon_color: '#7740fc'
 ---
