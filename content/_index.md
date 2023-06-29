@@ -177,13 +177,13 @@ content_blocks:
       - title: Basic Cake
         currency_unit: $
         price: '60'
-        frequency: serves approx. 10-12
-        list_1: Round or square
-        list_2: Single tier
-        list_3: Standard flavour options
-        list_4: Standard decoration options
-        list_5: + $20 for delivery
-        list_6:
+        frequency:
+        list_1: Serves approx. 10-12
+        list_2: Round or square
+        list_3: Single tier
+        list_4: Standard flavour options
+        list_5: Standard decoration options
+        list_6: + $20 for delivery
         button:
           _bookshop_name: generic/button
           label: Book
@@ -195,6 +195,6 @@ content_blocks:
           hover_label_color: '#ffffff'
           hover_border_color: '#ffffff'
           open_in_new_tab: false
-        text_color: '#cc40ae'
+        text_color: '#333333'
         border_color: '#cc40ae'
 ---
