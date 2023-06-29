@@ -76,4 +76,12 @@ content_blocks:
           way that allows us to eliminate cross contamination.
         features_heading_color: '#333333'
         features_text_color: '#cc40ae'
+      - icon: color-palette-outline
+        icon_color: '#cc40ae'
+        heading: Customizable
+        text: >-
+          You pick everything from cake and frosting flavour, colour,
+          decorations, size. 
+        features_heading_color: '#333333'
+        features_text_color: '#7740fc'
 ---
