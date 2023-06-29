@@ -135,7 +135,7 @@ content_blocks:
       - name: Eve Rojas
         role: Head Baker
         image: /uploads/danijel-skabic-h5b-sar7ey8-unsplash.jpg
-        image_alt:
+        image_alt: Eve smiling, sitting on a rock. Sunglasses on.
         description: >-
           With over 10 years of experience, Eve know how to create a cake! Her
           favourite cake flavour is choc mint.
