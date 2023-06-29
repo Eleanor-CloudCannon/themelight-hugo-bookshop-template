@@ -276,4 +276,17 @@ content_blocks:
           time to our event. Extraordinary! 
         image: /img/team1.jpg
         image_alt: Linda smiling, wearing a pale blazer.
+  - _bookshop_name: sections/blog
+    background_color: '#ffffff'
+    heading:
+      _bookshop_name: generic/heading
+      title: BLOG
+      subtitle: >-
+        We sometimes blog about extraordinary cakes with crazy construction or
+        creativity. Or we might blog about cake decorating techniques, a bit of
+        a blog-torial. 
+      title_color: '#333333'
+      subtitle_color: '#333333'
+      line_color: '#cc40ae'
+    link_color: '#cc40ae'
 ---
