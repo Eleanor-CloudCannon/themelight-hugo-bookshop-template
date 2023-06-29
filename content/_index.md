@@ -253,5 +253,11 @@ content_blocks:
       title_color: '#333333'
       subtitle_color: '#6d6969'
       line_color: '#cc40ae'
-    testimonials: []
+    testimonials:
+      - name: Jonathan Andrew
+        text: >-
+          The most amazing cake I've ever had! And such a great experience
+          meeting with Eve to design our wedding cake.
+        image: /img/testimonial1.jpg
+        image_alt: Jonathan smiling at the camera wearing a grey top.
 ---
