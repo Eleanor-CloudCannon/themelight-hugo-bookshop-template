@@ -152,4 +152,14 @@ content_blocks:
         hover_border_color: '#cc40ae'
         icon: flower-outline
         icon_color: '#333333'
+      - name: Fiona Hutchinson
+        role: Baker and Cake Decorator
+        image: /uploads/caique-nascimento-kje-xk4awe-unsplash.jpg
+        image_alt: Fiona standing next to a car, smiling. She is wearing a blue top
+        description: >-
+          Fiona is one of our most versatile decorators and will take on any
+          challenge. She particularly likes making cakes for dogs.
+        hover_border_color: '#7740fc'
+        icon: paw-outline
+        icon_color: '#7740fc'
 ---
