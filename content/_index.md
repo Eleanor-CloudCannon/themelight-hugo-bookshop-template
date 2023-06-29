@@ -299,7 +299,7 @@ content_blocks:
         a question.
       title_color: '#333333'
       subtitle_color: '#6d6969'
-      line_color: '#ffffff'
+      line_color: '#7740fc'
     button:
       _bookshop_name: generic/button
       label: SUBMIT
