@@ -245,4 +245,13 @@ content_blocks:
         border_color: '#7740fc'
   - _bookshop_name: sections/narrow-image
     image: /uploads/amirali-mirhashemian-efkmkuxs0fu-unsplash.jpg
+  - _bookshop_name: sections/testimonial
+    background_color: '#f3a5e2'
+    heading:
+      title: Testimonials
+      subtitle: See what some of our customers have to say.
+      title_color: '#333333'
+      subtitle_color: '#6d6969'
+      line_color: '#cc40ae'
+    testimonials: []
 ---
