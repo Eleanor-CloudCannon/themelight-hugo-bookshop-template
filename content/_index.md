@@ -246,7 +246,7 @@ content_blocks:
   - _bookshop_name: sections/narrow-image
     image: /uploads/amirali-mirhashemian-efkmkuxs0fu-unsplash.jpg
   - _bookshop_name: sections/testimonial
-    background_color: '#f3a5e2'
+    background_color: '#f3bfe8'
     heading:
       title: Testimonials
       subtitle: See what some of our customers have to say.
@@ -270,4 +270,10 @@ content_blocks:
           experience with an awesome cake for my sisters 40th birthday.
         image: /img/testimonial4.jpg
         image_alt: Anne wearing a white top, hair in a bun.
+      - name: Linda Webb
+        text: >-
+          Great team. Managed to make all 8 cakes and have them delivered on
+          time to our event. Extraordinary! 
+        image: /img/team1.jpg
+        image_alt: Linda smiling, wearing a pale blazer.
 ---
