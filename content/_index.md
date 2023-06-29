@@ -193,7 +193,7 @@ content_blocks:
           background_color: '#cc40ae'
           hover_background_color: '#7740fc'
           hover_label_color: '#ffffff'
-          hover_border_color: '#ffffff'
+          hover_border_color: '#cc40ae'
           open_in_new_tab: false
         text_color: '#333333'
         border_color: '#cc40ae'
