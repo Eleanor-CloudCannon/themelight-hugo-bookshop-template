@@ -47,5 +47,25 @@ content_blocks:
         your vision.
       title_color: '#333333'
       subtitle_color: '#333333'
-      line_color: '#80d6a3'
+      line_color: '#cc40ae'
+  - _bookshop_name: sections/features
+    background_color: '#ffffff'
+    heading:
+      title: Our Services
+      subtitle: >-
+        Discuss additional services with our team if you have a unique
+        opportunity or challenge.
+      title_color: '#333333'
+      subtitle_color: '#6d6969'
+      line_color: '#cc40ae'
+    features:
+      - icon: car-outline
+        icon_color: '#cc40ae'
+        heading: Transport Available
+        text: >-
+          We can deliver and set-up your cake. This is highly recommended for
+          tall or large cakes and difficult venues. We have experience moving
+          cakes.
+        features_heading_color: '#333333'
+        features_text_color: '#6d6969'
 ---
