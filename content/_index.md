@@ -61,7 +61,7 @@ content_blocks:
     features:
       - icon: car-outline
         icon_color: '#cc40ae'
-        heading: Transport Available
+        heading: Delivery Available
         text: >-
           We can deliver and set-up your cake. This is highly recommended for
           tall or large cakes and difficult venues. We have experience moving
