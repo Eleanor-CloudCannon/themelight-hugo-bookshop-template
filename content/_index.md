@@ -22,6 +22,16 @@ content_blocks:
       hover_border_color: '#cc40ae'
       open_in_new_tab: false
     button_2:
+      _bookshop_name: generic/button
+      label: Examples
+      link_url: '#portfolio'
+      label_color: '#ffffff'
+      border_color: '#ffffff'
+      background_color: rgba(0, 0, 0, 0)
+      hover_background_color: '#cc40ae'
+      hover_label_color: '#ffffff'
+      hover_border_color: '#ffffff'
+      open_in_new_tab: false
     reversed: false
     background_color: '#6d6969'
     scrolldown_to: /
