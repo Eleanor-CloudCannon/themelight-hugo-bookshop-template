@@ -23,7 +23,7 @@ content_blocks:
       open_in_new_tab: false
     button_2:
       _bookshop_name: generic/button
-      label: Examples
+      label: Cakes
       link_url: '#portfolio'
       label_color: '#ffffff'
       border_color: '#ffffff'
