@@ -92,7 +92,14 @@ content_blocks:
       title_color: '#f3a5e2'
       subtitle_color: '#f3a5e2'
       line_color: '#7740fc'
-    numbers: []
+    numbers:
+      - number: 32
+        prefix:
+        suffix:
+        text: Wedding cakes delivered
+        number_color: '#ffffff'
+        icon: diamond-outline
+        icon_color: '#7740fc'
     image: /uploads/anirban-sengupta-gqvnc4bdryw-unsplash.jpg
     image_alt:
 ---
