@@ -127,9 +127,9 @@ content_blocks:
     background_color: '#cc40ae'
     heading:
       title: Our Talented Team
-      subtitle:
+      subtitle: Meet some of our talented team behind the delicious creations.
       title_color: '#333333'
       subtitle_color: '#6d6969'
-      line_color: '#80d6a3'
+      line_color: '#7740fc'
     team: []
 ---
