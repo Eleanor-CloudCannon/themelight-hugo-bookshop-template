@@ -131,5 +131,15 @@ content_blocks:
       title_color: '#333333'
       subtitle_color: '#6d6969'
       line_color: '#7740fc'
-    team: []
+    team:
+      - name: Eve Rojas
+        role: Head Baker
+        image: /uploads/danijel-skabic-h5b-sar7ey8-unsplash.jpg
+        image_alt:
+        description: >-
+          With over 10 years of experience, Eve know how to create a cake! Her
+          favourite cake flavour is choc mint.
+        hover_border_color: '#cc40ae'
+        icon: leaf-outline
+        icon_color: '#7740fc'
 ---
