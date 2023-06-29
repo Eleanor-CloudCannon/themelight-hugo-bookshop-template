@@ -35,4 +35,17 @@ content_blocks:
     reversed: false
     background_color: '#6d6969'
     scrolldown_to: /
+  - _bookshop_name: sections/portfolio
+    background_color: '#f3a5e2'
+    link_color: '#cc40ae'
+    heading:
+      title: Our Latest Creations
+      subtitle: >-
+        Some of our latest custom creations. If you like a specific design, talk
+        to our team about making it fit your needs. We also welcome unique
+        requests and would love to discuss what would be possible to achieve
+        your vision.
+      title_color: '#333333'
+      subtitle_color: '#333333'
+      line_color: '#80d6a3'
 ---
