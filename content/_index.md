@@ -142,4 +142,14 @@ content_blocks:
         hover_border_color: '#7740fc'
         icon: leaf-outline
         icon_color: '#7740fc'
+      - name: Amelia Scott
+        role: Baker and Cake Decorator
+        image: /img/testimonial2.jpg
+        image_alt: Amelia smiling at the camera. Red lipstick, hair tied in a bun.
+        description: >-
+          Amelia is our creative mastermind when it comes to wedding cakes. Her
+          favourite decoration is fresh flowers.
+        hover_border_color: '#cc40ae'
+        icon: flower-outline
+        icon_color: '#333333'
 ---
