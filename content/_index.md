@@ -305,7 +305,7 @@ content_blocks:
       label: SUBMIT
       link_url: /
       label_color: '#ffffff'
-      border_color: '#ffffff'
+      border_color: '#f3bfe8'
       background_color: '#7740fc'
       hover_background_color: '#cc40ae'
       hover_label_color: '#ffffff'
