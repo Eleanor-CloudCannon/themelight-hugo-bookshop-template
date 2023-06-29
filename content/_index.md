@@ -93,6 +93,6 @@ content_blocks:
       subtitle_color: '#f3a5e2'
       line_color: '#7740fc'
     numbers: []
-    image:
+    image: /uploads/anirban-sengupta-gqvnc4bdryw-unsplash.jpg
     image_alt:
 ---
