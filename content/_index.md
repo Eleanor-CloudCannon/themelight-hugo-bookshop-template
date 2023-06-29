@@ -260,4 +260,8 @@ content_blocks:
           meeting with Eve to design our wedding cake.
         image: /img/testimonial1.jpg
         image_alt: Jonathan smiling at the camera wearing a grey top.
+      - name: Harry Potter
+        text: Magical.... just magical
+        image: /img/testimonial3.jpg
+        image_alt: Harry sitting with a hat and glasses on.
 ---
