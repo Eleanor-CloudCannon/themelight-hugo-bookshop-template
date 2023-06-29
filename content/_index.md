@@ -68,4 +68,12 @@ content_blocks:
           cakes.
         features_heading_color: '#333333'
         features_text_color: '#6d6969'
+      - icon: skull-outline
+        icon_color: '#7740fc'
+        heading: Dietary Requirements
+        text: >-
+          We can handle most dietary requirements. Our kitchen is designed in a
+          way that allows us to eliminate cross contamination.
+        features_heading_color: '#333333'
+        features_text_color: '#6d6969'
 ---
