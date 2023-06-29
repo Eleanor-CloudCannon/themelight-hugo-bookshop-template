@@ -114,7 +114,7 @@ content_blocks:
         number_color: '#ffffff'
         icon: balloon-outline
         icon_color: '#7740fc'
-      - number: 3
+      - number: 8
         prefix:
         suffix:
         text: Bakers baking
