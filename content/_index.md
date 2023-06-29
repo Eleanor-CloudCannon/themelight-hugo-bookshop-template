@@ -84,4 +84,15 @@ content_blocks:
           decorations, size. 
         features_heading_color: '#333333'
         features_text_color: '#7740fc'
+  - _bookshop_name: sections/counter
+    background_color: '#444444'
+    heading:
+      title: Fun Facts
+      subtitle: Here's some numbers from this year.
+      title_color: '#f3a5e2'
+      subtitle_color: '#f3a5e2'
+      line_color: '#7740fc'
+    numbers: []
+    image:
+    image_alt:
 ---
