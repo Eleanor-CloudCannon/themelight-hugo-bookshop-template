@@ -130,7 +130,7 @@ content_blocks:
       subtitle: Meet some of our talented team behind the delicious creations.
       title_color: '#333333'
       subtitle_color: '#333333'
-      line_color: '#7740fc'
+      line_color: '#cc40ae'
     team:
       - name: Eve Rojas
         role: Head Baker
