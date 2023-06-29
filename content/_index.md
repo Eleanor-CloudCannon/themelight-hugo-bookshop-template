@@ -114,7 +114,7 @@ content_blocks:
         number_color: '#ffffff'
         icon: balloon-outline
         icon_color: '#7740fc'
-      - number: 4
+      - number: 3
         prefix:
         suffix:
         text: Bakers baking
@@ -123,4 +123,13 @@ content_blocks:
         icon_color: '#cc40ae'
     image: /uploads/anirban-sengupta-gqvnc4bdryw-unsplash.jpg
     image_alt:
+  - _bookshop_name: sections/team
+    background_color: '#cc40ae'
+    heading:
+      title: Our Talented Team
+      subtitle:
+      title_color: '#333333'
+      subtitle_color: '#6d6969'
+      line_color: '#80d6a3'
+    team: []
 ---
