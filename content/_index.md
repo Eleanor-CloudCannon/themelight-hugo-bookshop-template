@@ -289,4 +289,27 @@ content_blocks:
       subtitle_color: '#333333'
       line_color: '#cc40ae'
     link_color: '#cc40ae'
+  - _bookshop_name: sections/form
+    background_color: '#f3bfe8'
+    heading:
+      _bookshop_name: generic/heading
+      title: Contact Us
+      subtitle: >-
+        Contact us for an updated flavour list, book a cake consultation or ask
+        a question.
+      title_color: '#333333'
+      subtitle_color: '#6d6969'
+      line_color: '#ffffff'
+    button:
+      _bookshop_name: generic/button
+      label: SUBMIT
+      link_url: /
+      label_color: '#ffffff'
+      border_color: '#ffffff'
+      background_color: '#000000'
+      hover_background_color: '#ffffff'
+      hover_label_color: '#000000'
+      hover_border_color: '#000000'
+      open_in_new_tab: false
+    border_color: '#ffffff'
 ---
