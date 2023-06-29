@@ -206,7 +206,7 @@ content_blocks:
         list_3: Standard flavour option
         list_4: Custom decoration
         list_5: Custom shape
-        list_6: + $20 for delivery (recommended for large and tall cakes)
+        list_6: + $20 for delivery (recommended)
         button:
           _bookshop_name: generic/button
           label: Book
@@ -216,7 +216,7 @@ content_blocks:
           background_color: '#7740fc'
           hover_background_color: '#cc40ae'
           hover_label_color: '#ffffff'
-          hover_border_color: '#ffffff'
+          hover_border_color: '#7740fc'
           open_in_new_tab: false
         text_color: '#333333'
         border_color: '#7740fc'
