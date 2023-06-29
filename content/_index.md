@@ -197,4 +197,50 @@ content_blocks:
           open_in_new_tab: false
         text_color: '#333333'
         border_color: '#cc40ae'
+      - title: Fancy Cake
+        currency_unit: $
+        price: 100 +
+        frequency:
+        list_1: Serves 18-20
+        list_2: Two tiers (same size or differing)
+        list_3: Standard flavour option
+        list_4: Custom decoration
+        list_5: Custom shape
+        list_6: + $20 for delivery (recommended for large and tall cakes)
+        button:
+          _bookshop_name: generic/button
+          label: Book
+          link_url: /
+          label_color: '#ffffff'
+          border_color: '#ffffff'
+          background_color: '#7740fc'
+          hover_background_color: '#cc40ae'
+          hover_label_color: '#ffffff'
+          hover_border_color: '#ffffff'
+          open_in_new_tab: false
+        text_color: '#333333'
+        border_color: '#7740fc'
+      - title: Super Fancy
+        currency_unit: $
+        price: 150 +
+        frequency:
+        list_1: Price guide after consultation
+        list_2: Custom flavours and decorations
+        list_3: Weddings and large celebrations
+        list_4: Multi tier
+        list_5: Super fancy
+        list_6: + $20 for delivery (highly recommended)
+        button:
+          _bookshop_name: generic/button
+          label: Book
+          link_url: /
+          label_color: '#ffffff'
+          border_color: '#ffffff'
+          background_color: '#cc40ae'
+          hover_background_color: '#7740fc'
+          hover_label_color: '#ffffff'
+          hover_border_color: '#ffffff'
+          open_in_new_tab: false
+        text_color: '#333333'
+        border_color: '#7740fc'
 ---
