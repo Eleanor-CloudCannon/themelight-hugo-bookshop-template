@@ -89,8 +89,8 @@ content_blocks:
     heading:
       title: Fun Facts
       subtitle: Here's some numbers from this year.
-      title_color: '#f3a5e2'
-      subtitle_color: '#f3a5e2'
+      title_color: '#cc40ae'
+      subtitle_color: '#cc40ae'
       line_color: '#7740fc'
     numbers:
       - number: 32
