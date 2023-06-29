@@ -151,7 +151,7 @@ content_blocks:
           favourite decoration is fresh flowers.
         hover_border_color: '#cc40ae'
         icon: flower-outline
-        icon_color: '#333333'
+        icon_color: '#cc40ae'
       - name: Fiona Hutchinson
         role: Baker and Cake Decorator
         image: /uploads/caique-nascimento-kje-xk4awe-unsplash.jpg
@@ -162,4 +162,13 @@ content_blocks:
         hover_border_color: '#7740fc'
         icon: paw-outline
         icon_color: '#7740fc'
+  - _bookshop_name: sections/pricing-table
+    background_color: '#ffffff'
+    heading:
+      title:
+      subtitle:
+      title_color: '#333'
+      subtitle_color: '#333'
+      line_color: '#fff'
+    price_card: []
 ---
