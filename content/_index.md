@@ -100,19 +100,26 @@ content_blocks:
         number_color: '#ffffff'
         icon: diamond-outline
         icon_color: '#7740fc'
-      - number:
-        prefix:
-        suffix:
-        text:
-        number_color: '#ffffff'
-        icon:
-        icon_color: '#80d6a3'
       - number: 58
         prefix:
         suffix:
         text: Custom birthday cakes
         number_color: '#ffffff'
         icon: gift-outline
+        icon_color: '#cc40ae'
+      - number: 6
+        prefix:
+        suffix:
+        text: Years in of making cakes
+        number_color: '#ffffff'
+        icon: balloon-outline
+        icon_color: '#7740fc'
+      - number: 4
+        prefix:
+        suffix:
+        text: Bakers baking
+        number_color: '#ffffff'
+        icon: people-outline
         icon_color: '#cc40ae'
     image: /uploads/anirban-sengupta-gqvnc4bdryw-unsplash.jpg
     image_alt:
