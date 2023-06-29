@@ -264,4 +264,10 @@ content_blocks:
         text: Magical.... just magical
         image: /img/testimonial3.jpg
         image_alt: Harry sitting with a hat and glasses on.
+      - name: Anne Lewis
+        text: >-
+          This bakery is so professional and creative. A great all around
+          experience with an awesome cake for my sisters 40th birthday.
+        image: /img/testimonial4.jpg
+        image_alt: Anne wearing a white top, hair in a bun.
 ---
