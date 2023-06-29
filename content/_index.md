@@ -110,7 +110,7 @@ content_blocks:
       - number: 6
         prefix:
         suffix:
-        text: Years in of making cakes
+        text: Years in business
         number_color: '#ffffff'
         icon: balloon-outline
         icon_color: '#7740fc'
