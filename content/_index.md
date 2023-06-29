@@ -124,7 +124,7 @@ content_blocks:
     image: /uploads/anirban-sengupta-gqvnc4bdryw-unsplash.jpg
     image_alt:
   - _bookshop_name: sections/team
-    background_color: '#f3a5e2'
+    background_color: '#f3bfe8'
     heading:
       title: Our Talented Team
       subtitle: Meet some of our talented team behind the delicious creations.
